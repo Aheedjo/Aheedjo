@@ -16,9 +16,9 @@
 
 ### 🚀 Professional Journey
 **Full Stack Engineer (FYXN)**: Developed both frontend and backend, enhancing functionality and ensuring seamless integration.
----
+
 **Full Stack Developer (PLATR)**: Transitioned from UI/UX design to full-stack development, working on Angular frontend and backend API enhancements.
----
+
 **Intern (NNPC)**: Developed Power Apps for the HSE department, enhancing operational efficiency and accessibility.
 
 ### 🎓 Education
