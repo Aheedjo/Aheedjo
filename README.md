@@ -21,10 +21,6 @@
 
 **Intern (NNPC)**: Developed Power Apps for the HSE department, enhancing operational efficiency and accessibility.
 
-### 🎓 Education
-- **Bachelor of Engineering - Computer Engineering**: Ahmadu Bello University (2018–2024)
-- **Software Engineering Course**: ALX Africa (2023–2024)
-
 ---
 
 ## 🚧 Notable Projects
@@ -35,10 +31,6 @@ Simplifies comparison of solar panels, heat pumps, and more in the Netherlands, 
 ### [PLATR Business Dashboard & Webshop](https://platr.ng)
 An all-in-one platform for entrepreneurs with tools for order management, inventory tracking, and storefront customization.
 - **Tech Stack**: Angular, Express.js, TailwindCSS, MongoDB
-
-### [EduShare Platform](https://edu-share-ashy.vercel.app)
-A course material management portal for students and lecturers, featuring secure uploads and collaborative tools.
-- **Tech Stack**: Next.js, Firebase, TypeScript
 
 ---
 
