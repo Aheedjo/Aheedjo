@@ -35,7 +35,7 @@ An all-in-one platform for entrepreneurs with tools for order management, invent
 ---
 
 ## 📫 Let’s Connect
-- **Portfolio**: [https://my-portflioo.com](https://adms-portfolio.vercel.app)
+- **Portfolio**: [https://admdevs.com](https://adms-portfolio.vercel.app)
 - **Email**: [maishanu.ahijo@yahoo.com](mailto:maishanu.ahijo@yahoo.com)
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/maishanu-ahidjo-36bb7b1bb)
 
